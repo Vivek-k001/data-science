@@ -1,4 +1,12 @@
 print(f"p : {math.p:}")
 print(f"eulars number : {math.e}")
 print(f"square root of 64 : {math/.sqrt(64)}")
+print(f"2 raised t power 3 : {math.pow(2,3)}")
+print(f"natural log of e : {math.log(math.e)}")
+print(f"base.to log of 1100 : {math.log 10 (100)}")
+print(f"ceiling of 4.8 : {math.ceil(4.2)}")
+print(f"floor of 4.8: {math.floor(4.8)}")
+print(f"factorial of 5 : {math.factorial(5)}")
+print(f"gcd of 28 and 36 : { math.gcd (2, 36)}")
+print(f"sinof 90 degreees : {math.sin(angle.radi)})
 
