@@ -1,21 +1,6 @@
 import matplotlib.pyplot as plt
 
 x = [1, 2, 3, 4, 5]
-y = [2, 4, 6, 8, 10]
-
-plt.scatter(x, y, color='blue', marker='x')
-
-plt.xlabel("X-Axis")
-plt.ylabel("Y-Axis")
-plt.title("Simple Scatter Plot")
-
-plt.show()
-
-
-
-import matplotlib.pyplot as plt
-
-x = [1, 2, 3, 4, 5]
 y1 = [1, 4, 9, 16, 25]
 y2 = [25, 20, 15, 10, 5]
 
@@ -46,4 +31,3 @@ plt.legend()
 plt.savefig("all_features_plot.png")
 
 plt.show()
-
